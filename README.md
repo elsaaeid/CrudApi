@@ -1,6 +1,6 @@
 # Build a REST API with Node JS and Express
 
-![REST API](https://drive.google.com/file/d/1HbLhv6EuUauwtLOfCN6fRHcSlwaM6lLP/view?usp=sharing)
+![REST API](https://i.ibb.co/N99G26L/603db0cd9005.jpg)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
